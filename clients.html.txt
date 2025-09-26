@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clients Services | Hire Heights Agency</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="css/service-pages.css"> </head>
+<body id="page-body">
+
+    <header class="main-header">
+        <div class="logo">
+            <a href="index.html">Hire Heights <span>Agency</span></a>
+        </div>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="clients.html" data-en="Clients" data-ar="للعملاء">Clients</a></li>
+                <li><a href="talents.html" data-en="Talents" data-ar="للمواهب">Talents</a></li>
+                <li><a href="about.html" data-en="About Us" data-ar="عن الوكالة">About Us</a></li>
+                <li class="nav-cta"><a href="#final-cta" class="button cta-button" data-en="Contact Us" data-ar="تواصل معنا">Contact Us</a></li>
+            </ul>
+        </nav>
+        <div class="header-toggles">
+            <button id="lang-toggle" class="toggle-button" aria-label="Toggle language to Arabic/English">
+                <span data-lang-text="AR">EN</span>
+            </button>
+            <button id="theme-toggle" class="toggle-button" aria-label="Toggle dark mode">
+                <i class="fas fa-moon"></i>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <section class="service-hero container">
+            <h1 data-en="Enhanced Services for Clients" data-ar="خدمات مُحسّنة للعملاء">Enhanced Services for Clients</h1>
+            <p class="service-intro" data-en="From strategic needs analysis to seamless onboarding and payroll, we offer comprehensive solutions to help your business find, hire, and retain top talent." data-ar="من تحليل الاحتياجات الاستراتيجية إلى التوظيف وإدارة الرواتب السلسة، نقدم حلولًا شاملة لمساعدة عملك في العثور على أفضل المواهب وتوظيفها والاحتفاظ بها.">From strategic needs analysis to seamless onboarding and payroll, we offer comprehensive solutions to help your business find, hire, and retain top talent.</p>
+        </section>
+
+        <section class="service-details container">
+            <h2 class="section-title" data-en="Our Comprehensive Client Offerings" data-ar="عروضنا الشاملة للعملاء">Our Comprehensive Client Offerings</h2>
+            
+            <div class="service-item">
+                <div class="service-header">
+                    <h3 data-en="Strategic Needs Analysis" data-ar="تحليل الاحتياجات الاستراتيجية">Strategic Needs Analysis</h3>
+                    <i class="fas fa-chevron-down toggle-icon"></i>
+                </div>
+                <div class="service-content">
+                    <p data-en="We engage in an in-depth consultation to understand the core responsibilities, essential skills, and desired qualifications for your vacant position, ensuring a precise match from the start." data-ar="نشارك في استشارة متعمقة لفهم المسؤوليات الأساسية والمهارات الضرورية والمؤهلات المطلوبة لمنصبك الشاغر، مما يضمن تطابقًا دقيقًا منذ البداية.">We engage in an in-depth consultation to understand the core responsibilities, essential skills, and desired qualifications for your vacant position, ensuring a precise match from the start.</p>
+                </div>
+            </div>
+
+            <div class="service-item">
+                <div class="service-header">
+                    <h3 data-en="Compelling Job Description Crafting" data-ar="صياغة وصف وظيفي جذاب">Compelling Job Description Crafting</h3>
+                    <i class="fas fa-chevron-down toggle-icon"></i>
+                </div>
+                <div class="service-content">
+                    <p data-en="We create optimized and engaging job descriptions that attract a wide pool of candidates and accurately reflect the unique value of the role and your company culture." data-ar="نقوم بإنشاء أوصاف وظيفية مُحسّنة وجذابة تجذب مجموعة واسعة من المرشحين وتعكس بدقة القيمة الفريدة للدور وثقافة شركتك.">We create optimized and engaging job descriptions that attract a wide pool of candidates and accurately reflect the unique value of the role and your company culture.</p>
+                </div>
+            </div>
+            
+            <div class="service-item">
+                <div class="service-header">
+                    <h3 data-en="Professional Offboarding Management" data-ar="إدارة إنهاء الخدمة باحترافية">Professional Offboarding Management</h3>
+                    <i class="fas fa-chevron-down toggle-icon"></i>
+                </div>
+                <div class="service-content">
+                    <p data-en="We manage the offboarding process with professionalism and compliance, ensuring a smooth and respectful transition." data-ar="ندير عملية إنهاء الخدمة باحترافية وامتثال، مما يضمن انتقالًا سلسًا ومحترمًا.">We manage the offboarding process with professionalism and compliance, ensuring a smooth and respectful transition.</p>
+                </div>
+            </div>
+            
+            <div class="testimonial-snippet">
+                <p>"Hire Heights found us the perfect candidate in record time."</p>
+                <p class="source">- Jane Doe, CEO <span class="tag client-tag">Client</span></p>
+                <a href="testimonials.html" class="button secondary-button">Read All Success Stories</a>
+            </div>
+            
+        </section>
+        
+        <section id="final-cta" class="final-cta-section container">
+            <h2 class="section-title" data-en="Ready to Get Started?" data-ar="هل أنت مستعد للبدء؟">Ready to Get Started?</h2>
+            <p class="body-text">We're here to help you find the talent that will take your business to its peak.</p>
+            <div class="cta-buttons">
+                <a href="#" class="button cta-button" data-en="Contact Us" data-ar="تواصل معنا">Contact Us</a>
+                
+                <a href="https://calendly.com/" target="_blank" class="button secondary-button" 
+                   data-en="Schedule a Free Consultation" data-ar="احجز استشارة مجانية">Schedule a Free Consultation</a>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2024 Hire Heights Agency. All Rights Reserved.</p>
+        <div class="social-links">
+            </div>
+    </footer>
+
+    <script src="js/scripts.js"></script>
+    <script src="js/service-logic.js"></script> </body>
+</html>

@@ -1,0 +1,81 @@
+<title>Business & Growth Consulting | Hire Heights Agency</title>
+<section class="service-hero container">
+    <h1 data-en="Business & Growth Consulting Services" data-ar="خدمات استشارات الأعمال والنمو">Business & Growth Consulting Services</h1>
+    <p class="service-intro" 
+       data-en="Leverage our expertise in strategic planning, workflow optimization, and project management to build a more efficient, resilient, and growth-focused business." 
+       data-ar="استفد من خبرتنا في التخطيط الاستراتيجي وتحسين سير العمل وإدارة المشاريع لبناء عمل تجاري أكثر كفاءة ومرونة وتركيزًا على النمو.">Leverage our expertise in strategic planning, workflow optimization, and project management to build a more efficient, resilient, and growth-focused business.</p>
+</section>
+<section class="service-details container">
+    <h2 class="section-title" data-en="Our Strategic Consulting Offerings" data-ar="عروضنا الاستشارية الاستراتيجية">Our Strategic Consulting Offerings</h2>
+    
+    <div class="service-item">
+        <div class="service-header">
+            <h3 data-en="Strategic Business & Growth Planning" data-ar="التخطيط الاستراتيجي للأعمال والنمو">Strategic Business & Growth Planning</h3>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="service-content">
+            <p data-en="We partner with startups and scaling teams to develop robust, long-term strategic plans. Our focus is on defining clear objectives and building a resilient framework that helps you avoid costly missteps and get it right from the very beginning." data-ar="نتعاون مع الشركات الناشئة والفرق المتنامية لتطوير خطط استراتيجية قوية وطويلة الأجل. ينصب تركيزنا على تحديد أهداف واضحة وبناء إطار عمل مرن يساعدك على تجنب الأخطاء المكلفة والبدء بشكل صحيح من البداية.">We partner with startups and scaling teams to develop robust, long-term strategic plans. Our focus is on defining clear objectives and building a resilient framework that helps you avoid costly missteps and get it right from the very beginning.</p>
+        </div>
+    </div>
+
+    <div class="service-item">
+        <div class="service-header">
+            <h3 data-en="Operational Excellence & Workflow Optimization" data-ar="التميز التشغيلي وتحسين سير العمل">Operational Excellence & Workflow Optimization</h3>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="service-content">
+            <p data-en="We don’t just manage operations; we optimize them to a lean, efficient state. By identifying execution bottlenecks and streamlining workflows, we help you save valuable resources and protect your team from costly rework and underperformance." data-ar="نحن لا ندير العمليات فحسب؛ بل نعمل على تحسينها إلى حالة فعالة ومرنة. من خلال تحديد اختناقات التنفيذ وتبسيط سير العمل، نساعدك على توفير موارد قيمة وحماية فريقك من إعادة العمل المكلفة وضعف الأداء.">We don’t just manage operations; we optimize them to a lean, efficient state. By identifying execution bottlenecks and streamlining workflows, we help you save valuable resources and protect your team from costly rework and underperformance.</p>
+        </div>
+    </div>
+    
+    <div class="service-item">
+        <div class="service-header">
+            <h3 data-en="Agile Project & Product Delivery" data-ar="تسليم المشاريع والمنتجات بمنهجية أجايل">Agile Project & Product Delivery</h3>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="service-content">
+            <p data-en="Our expertise in Agile methodology ensures your projects and products are delivered with speed and precision. We help you implement scalable systems that cut delivery timelines, allowing your team to deliver faster and with greater consistency." data-ar="تضمن خبرتنا في منهجية أجايل (Agile) تسليم مشاريعك ومنتجاتك بسرعة ودقة. نساعدك في تنفيذ أنظمة قابلة للتطوير تقلل من الجداول الزمنية للتسليم، مما يسمح لفريقك بالتسليم بشكل أسرع وبتناسق أكبر.">Our expertise in Agile methodology ensures your projects and products are delivered with speed and precision. We help you implement scalable systems that cut delivery timelines, allowing your team to deliver faster and with greater consistency.</p>
+        </div>
+    </div>
+
+    <div class="service-item">
+        <div class="service-header">
+            <h3 data-en="Marketing & Brand Strategy" data-ar="استراتيجية التسويق والعلامة التجارية">Marketing & Brand Strategy</h3>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="service-content">
+            <p data-en="We develop data-driven marketing plans that align with your core business goals. Our strategic approach ensures your brand message is clear and effective, helping you build a strong market presence and attract the right customers from day one." data-ar="نقوم بتطوير خطط تسويقية قائمة على البيانات تتوافق مع أهداف عملك الأساسية. يضمن نهجنا الاستراتيجي أن تكون رسالة علامتك التجارية واضحة وفعالة، مما يساعدك على بناء حضور قوي في السوق وجذب العملاء المناسبين من اليوم الأول.">We develop data-driven marketing plans that align with your core business goals. Our strategic approach ensures your brand message is clear and effective, helping you build a strong market presence and attract the right customers from day one.</p>
+        </div>
+    </div>
+    
+    <div class="service-item">
+        <div class="service-header">
+            <h3 data-en="Performance Management System Design" data-ar="تصميم نظام إدارة الأداء">Performance Management System Design</h3>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="service-content">
+            <p data-en="We design and implement tailored performance management frameworks, including key performance indicators (KPIs) and objective and key results (OKRs), to give your team clear direction and measure success." data-ar="نقوم بتصميم وتنفيذ أطر عمل مخصصة لإدارة الأداء، بما في ذلك مؤشرات الأداء الرئيسية (KPIs) والأهداف والنتائج الرئيسية (OKRs)، لمنح فريقك توجيهًا واضحًا وقياس النجاح.">We design and implement tailored performance management frameworks, including key performance indicators (KPIs) and objective and key results (OKRs), to give your team clear direction and measure success.</p>
+        </div>
+    </div>
+
+    <div class="service-item">
+        <div class="service-header">
+            <h3 data-en="App and Web Development Projects from Scratch" data-ar="مشاريع تطوير التطبيقات والويب من البداية">App and Web Development Projects from Scratch</h3>
+            <i class="fas fa-chevron-down toggle-icon"></i>
+        </div>
+        <div class="service-content">
+            <p data-en="We lead the development of your digital products from concept to launch. Our expertise covers strategic planning, agile project management, and execution to ensure your new app or website is built to spec, delivered on time, and aligned with your business objectives. We focus on building resilient, scalable platforms that are ready to grow with your business." data-ar="نقود تطوير منتجاتك الرقمية من المفهوم إلى الإطلاق. تغطي خبرتنا التخطيط الاستراتيجي، وإدارة المشاريع الرشيقة، والتنفيذ لضمان بناء تطبيقك أو موقعك الجديد وفقًا للمواصفات، وتسليمه في الوقت المحدد، ومواءمته مع أهداف عملك. نركز على بناء منصات مرنة وقابلة للتطوير جاهزة للنمو مع عملك.">We lead the development of your digital products from concept to launch. Our expertise covers strategic planning, agile project management, and execution to ensure your new app or website is built to spec, delivered on time, and aligned with your business objectives. We focus on building resilient, scalable platforms that are ready to grow with your business.</p>
+        </div>
+    </div>
+
+    <div class="testimonial-snippet">
+        <p>"Their business solutions saved us thousands in overhead."</p>
+        <p class="source">- Alex Chen, COO <span class="tag business-tag">Business</span></p>
+        <a href="testimonials.html" class="button secondary-button">Read All Success Stories</a>
+    </div>
+            
+</section>
+<section id="final-cta" class="final-cta-section container">
+    <h2 class="section-title" data-en="Ready to Grow Your Business?" data-ar="هل أنت مستعد لتنمية عملك؟">Ready to Grow Your Business?</h2>
+    <p class="body-text">Partner with us to optimize your operations and achieve strategic, sustainable growth.</p>
+    </section>
